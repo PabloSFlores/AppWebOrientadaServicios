@@ -12,3 +12,4 @@ public class Methods {
         return "Hola, el producto es " + producto + ",la suma es: " + suma + ", el promedio es: " + promedio;
     }
 }
+//Flores Santana Pablo Samuel 4A DSM
